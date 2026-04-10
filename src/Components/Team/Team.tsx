@@ -10,22 +10,22 @@ import { useInView } from 'framer-motion';
 const teamData = [
   {
     image: member1,
-    name: 'Ethan Garcia',
+    name: 'Bill Shadrack',
     position: 'SEO & Marketing Specialist',
   },
   {
     image: member2,
-    name: 'Olivia Williams',
+    name: 'Shaine Ouma',
     position: 'Product Designer',
   },
   {
     image: member3,
-    name: 'Lucas Patel',
+    name: 'Lesther Sheldon',
     position: 'Software Engineer',
   },
   {
     image: member4,
-    name: 'Sebastian Nguyen',
+    name: 'Marvel Prosper',
     position: 'CEO & Staff Developer',
   },
 ];
